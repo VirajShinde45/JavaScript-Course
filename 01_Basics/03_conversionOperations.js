@@ -27,3 +27,27 @@ let digit = 33
 let stringdigit = String(digit)
 console.log(stringdigit)
 console.log(typeof stringdigit)
+
+/****************OPERATIONS***************** */
+
+let value = 3
+let negvalue = -value
+console.log(negvalue)
+
+let str1 = "hello"
+let str2 = "Viraj"
+let str3 = str1 + str2
+console.log(str3)
+console.log(str1 + str2)
+
+console.log("1" + 2)
+console.log(1 + "2")
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+
+console.log(true)
+console.log(+true);
+console.log(+"");
+
+
+
