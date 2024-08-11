@@ -4,7 +4,7 @@ var accountPassword = "123456"
 accountCity = "Ahmednagar"
 let accountState
 
-//account = 9 //notallowed
+//account = 9 //Not Allowed
 
 accountEmail = "ab@bc.com"
 accountPassword = "58"
